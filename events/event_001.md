@@ -1,7 +1,7 @@
 
 # Summary 
-- We decided on the tech stack
-- We decided on the MVP requirements.
+- We made decisions on the tech stack
+- We made decisions on the MVP requirements.
 
 # Homework
 - Omer: Front-end design mockup
@@ -12,4 +12,4 @@
 - - feel free to go as nuts as you want. 
 - Aleks: Create user registration endpoint, reset password endpoint
 - Ali: Database design + models. 
-- Ilyas: 
+- Ilyas: planning, organization, product design, etc

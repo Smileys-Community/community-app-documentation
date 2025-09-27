@@ -1,6 +1,7 @@
 
-# Product Plan
+# Product Plan 
 
+## Brainstorming & Backlog
 
 - Public pages : guests can explore groups and events
 - Membership feature 
