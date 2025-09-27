@@ -1,4 +1,3 @@
-/docs/product/features/public-discovery.md
 # Feature Requirements — Public Discovery (MVP)
 
 ## Goals

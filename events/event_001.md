@@ -13,3 +13,4 @@
 - Aleks: Create user registration endpoint, reset password endpoint
 - Ali: Database design + models. 
 - Ilyas: planning, organization, product design, etc
+

@@ -1,4 +1,3 @@
-/docs/product/features/check-in-scanner.md
 # Feature Requirements — Check-in & Scanner (MVP)
 
 ## Goals
