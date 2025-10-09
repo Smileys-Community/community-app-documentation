@@ -3,7 +3,7 @@
 ## Topics
 
 - Slack Workspace
-- PRDs & the task manager
+- PRDs & the task manager & GitHub Spec Kit
 - Replit generated app (Typescript)
 - - the UI needs some spirit
 - - the code needs review
